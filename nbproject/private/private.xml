@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/passw/src/java/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/passw/src/java/session/UserFacade.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/passw/src/java/session/UserRolesFacade.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/passw/web/WEB-INF/glassfish-resources.xml</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/passw/web/js/index.js</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/passw/src/java/session/RoleFacade.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/passw/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/passw/src/java/entity/UserRoles.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/passw/web/index.html</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/passw/src/java/session/AbstractFacade.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/passw/src/java/entity/Role.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/passw/web/proba.html</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/passw/src/java/entity/User.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/passw/src/conf/persistence.xml</file>
+        </group>
+    </open-files>
+</project-private>
